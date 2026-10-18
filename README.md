@@ -36,6 +36,6 @@ My other projects aren't public. I built a personal finance app tailored to my h
 
 ## What's next
 
-I'm taking a year to build my own projects and go deep on AI. It's changing too fast to learn on the side, so for now, learning is my job. I'm not looking for just any job, but if you think my mix of skills (product management, localization and internationalization, and building with AI) could be useful to you, I'd be happy to talk.
+I'm taking a year to build my own projects and go deep on AI. It's changing too fast to learn on the side. If you think my mix of skills (product management, localization and internationalization, and building with AI) could be useful to you, I'd be happy to talk.
 
 📫 [LinkedIn](https://www.linkedin.com/in/jennyreid/)

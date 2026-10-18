@@ -1,8 +1,8 @@
 # Hi, I'm Jenny Reid
 
-I'm a localization and internationalization SME who builds with AI. As a technical product manager, I've worked with engineering teams at BlackBerry, Guidewire and RingCentral. At RingCentral, I implemented AI-driven localization workflows that went live in January 2025 and cut per-word costs by 35%. We later brought it all in-house, replacing our TMS and our external AI localization vendor.
+I'm a localization and internationalization SME who builds with AI. As a technical product manager, I've worked with engineering teams at BlackBerry, Guidewire and RingCentral. At RingCentral, I implemented AI-driven localization workflows that went live in January 2025 and cut per-word costs by 35%. We later brought it all in-house, replacing our TMS and our external AI localization vendor. In October 2025, I presented our approach at LocWorld in Monterey, California.
 
-In October 2025, I presented our approach at LocWorld in Monterey, California. In summer 2026, I started experimenting with AI beyond localization: I built my first game during RingCentral's AI experimentation program, and since being laid off, I've been building my own apps full time with a 100% AI team.
+In summer 2026, I started experimenting with AI beyond localization: I built my first game during RingCentral's AI experimentation program, and since being laid off, I've been building my own apps full time with a 100% AI team.
 
 ## How I work: an AI team run like an engineering team
 

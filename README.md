@@ -32,7 +32,7 @@ At RingCentral, I built my first game, **Escape Room**: a point-and-click advent
 
 **[Cat Coin Pusher](https://github.com/jennylreid/cat-coin-pusher)** is my current game, and a very different challenge. Escape Room delighted through its story, puzzles, cleverness and music. A coin pusher has to delight moment to moment, through how it looks, how smoothly it plays and how it pays off, and getting that right takes far longer. It's a long-term side project, and the repo shows my process at work: tickets, engineer reports, and test builds before each release.
 
-My other projects aren't public. I built a personal finance app tailored to my husband's and my needs, which I might adapt for public display at some point. I also set up an OpenClaw agent named Belle, who is another member of my team. Belle can ping me on Discord when an engineer is waiting for approval or a task is done. I can also voice chat with her to brainstorm in the car, and she takes notes and sends them to my Kanban board or to a PM of my choice. It's early days, and things are moving quickly.
+My other projects aren't public. I built a personal finance app tailored to my husband's and my needs, which I might adapt for public display at some point. I also set up an OpenClaw agent named Belle, who is another member of my team. Belle can ping me on Discord when an engineer is waiting for approval or a task is done. I can also voice chat with her to brainstorm in the car, and she takes notes and sends them to my Kanban board or to a PM of my choice. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
 
 ## What's next
 

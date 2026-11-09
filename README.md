@@ -42,7 +42,6 @@ At RingCentral, I built my first game, **Escape Room**: a point-and-click advent
 
 I also set up an OpenClaw agent named Finch, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I can also voice chat with her to brainstorm in the car, and she takes notes and sends them to my Kanban board or to a PM of my choice. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
 
-<img src="images/finch-discord.png" alt="Finch in Discord: a morning to-do note, a brief written up after a voice call, and a ticket-done message (sample messages)" width="680">
 
 **Cat TikTok** is a series of short AI-made videos, like this one: a tuxedo cat on a country drive meets a deer-crossing sign, and then a deer.
 

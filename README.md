@@ -28,21 +28,19 @@ My team's toolkit: Claude Code · Codex · OpenClaw · OpenAI · Runway · Disco
 
 ## Projects
 
-At RingCentral, I built my first game, **Escape Room**: a point-and-click adventure game inspired by my favorite PC game as a kid, King's Quest VI. I was so hooked that I worked on it nights and weekends, and after 40 hours of work it had five screens and was essentially fully baked. I made it as a passion project during the company's AI experimentation program, and that's where I started developing my process, with Claude as PM and Codex as engineer. The game belongs to RingCentral, so I can't share it.
-
-**[Cat Coin Pusher](https://github.com/jennylreid/cat-coin-pusher)** is my current game, and a very different challenge. Escape Room delighted through its story, puzzles, cleverness and music. A coin pusher has to delight moment to moment, through how it looks, how smoothly it plays and how it pays off, and getting that right takes far longer. It's a long-term side project, and the repo shows my process at work: tickets, engineer reports, and test builds before each release.
-
-<img src="images/cat-coin-pusher.png" alt="Cat Coin Pusher: a cat face above a board of paw-print coins, with cheese and shrimp prizes" width="260">
-
 **FinTracker** was the first thing I built after leaving RingCentral, and it's my most finished product: a personal finance app tailored to my husband's and my needs, with transactions imported automatically, monthly bills against budget, net worth, runway and what-if scenarios. The code isn't public, so the screenshot uses sample data.
 
 <img src="images/fintracker.png" alt="FinTracker's Home screen with sample data: monthly bills against budget, net worth, runway and what-if scenarios" width="760">
 
 <img src="images/fintracker-spending.png" alt="FinTracker Spending: each budget line against its target, month so far (sample data)" width="49%"> <img src="images/fintracker-all-done.png" alt="FinTracker all caught up: the cat celebrates when nothing needs you (sample data)" width="49%">
 
+Before that, at RingCentral, I built my first game, **Escape Room**: a point-and-click adventure game inspired by my favorite PC game as a kid, King's Quest VI. I was so hooked that I worked on it nights and weekends, and after 40 hours of work it had five screens and was essentially fully baked. I made it as a passion project during the company's AI experimentation program, and that's where I started developing my process, with Claude as PM and Codex as engineer. The game belongs to RingCentral, so I can't share it.
+
+**[Cat Coin Pusher](https://github.com/jennylreid/cat-coin-pusher)** is my current game, and a very different challenge. Escape Room delighted through its story, puzzles, cleverness and music. A coin pusher has to delight moment to moment, through how it looks, how smoothly it plays and how it pays off, and getting that right takes far longer. It's a long-term side project, and the repo shows my process at work: tickets, engineer reports, and test builds before each release.
+
+<img src="images/cat-coin-pusher.png" alt="Cat Coin Pusher: a cat face above a board of paw-print coins, with cheese and shrimp prizes" width="260">
+
 I also set up an OpenClaw agent named Finch, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I gave her a premium, interactive voice, so I can brainstorm with her hands-free in the car (she even hangs up when I ask), and she takes notes and sends them to my PMs for processing. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
-
-
 
 **Cat TikTok** is a series of short AI-made videos, like this one: a tuxedo cat on a country drive meets a deer-crossing sign, and then a deer.
 

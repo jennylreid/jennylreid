@@ -34,7 +34,7 @@ As part of RingCentral's AI experimentation program, PMs were each asked to buil
 
 <img src="images/fintracker.png" alt="FinTracker's Home screen with sample data: monthly bills against budget, net worth, runway and what-if scenarios" width="680">
 
-<img src="images/fintracker-spending-v3.gif" alt="FinTracker Spending screen (sample data): moving a grocery charge to Dining out updates both lines' totals live" width="680">
+<img src="images/fintracker-spending-v4.gif" alt="FinTracker Spending screen (sample data): moving a grocery charge to Dining out updates both lines' totals live" width="680">
 
 <img src="images/fintracker-all-done.png" alt="FinTracker all caught up: the cat celebrates when nothing needs you (sample data)" width="680">
 

@@ -36,7 +36,7 @@ At RingCentral, I built my first game, **Escape Room**: a point-and-click advent
 
 **FinTracker** was the first thing I built after leaving RingCentral, and it's my most finished product: a personal finance app tailored to my husband's and my needs, with transactions imported automatically, monthly bills against budget, net worth, runway and what-if scenarios. The code isn't public, so the screenshot uses sample data.
 
-<!-- FINTRACKER_IMAGE -->
+<img src="images/fintracker.png" alt="FinTracker's Home screen with sample data: monthly bills against budget, net worth, runway and what-if scenarios" width="760">
 
 I also set up an OpenClaw agent named Finch, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I can also voice chat with her to brainstorm in the car, and she takes notes and sends them to my Kanban board or to a PM of my choice. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
 

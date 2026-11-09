@@ -38,7 +38,7 @@ As part of RingCentral's AI experimentation program, PMs were each asked to buil
 
 From the same code, I also build **FinTracker Lite**, a Maple Leaf Edition for my husband in Canada. All personal data is kept separate from the code. It starts lean, with budgeting only, and I'll add features as he uses it.
 
-<img src="images/fintracker-cross-border.png" alt="FinTracker Lite, the Canadian edition, with its maple-leaf cat mascot; below, a Canadian RRSP counted in US dollars in FinTracker (sample data)" width="760">
+<img src="images/fintracker-lite.png" alt="FinTracker Lite, Maple Leaf Edition: the cat mascot in a maple-leaf tie, all caught up (sample data)" width="760">
 
 **[Cat Coin Pusher](https://github.com/jennylreid/cat-coin-pusher)** is my current game, and a very different challenge. Escape Room delighted through its story, puzzles, cleverness and music. A coin pusher has to delight moment to moment, through how it looks, how smoothly it plays and how it pays off, and getting that right takes far longer. It's a long-term side project, and the repo shows my process at work: tickets, engineer reports, and test builds before each release.
 

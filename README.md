@@ -14,7 +14,7 @@ I run my AI team the way I've always worked with engineering teams.
 
 Every team member understands their role and always assigns or passes work to the correct role.
 
-My team's toolkit: Claude Code · Codex · OpenClaw · OpenAI · GitHub · JavaScript · Python · Android
+My team's toolkit: Claude Code · Codex · OpenClaw · OpenAI · Runway · Discord · GitHub · JavaScript · Python · Android
 
 ## What I've learned
 

@@ -36,7 +36,7 @@ As part of RingCentral's AI experimentation program, PMs were each asked to buil
 
 <img src="images/fintracker-spending.png" alt="FinTracker Spending: each budget line against its target, month so far (sample data)" width="49%"> <img src="images/fintracker-all-done.png" alt="FinTracker all caught up: the cat celebrates when nothing needs you (sample data)" width="49%">
 
-From the same code, I also built **FinTracker Lite**, a Maple Leaf Edition for Canada. The build stops if any of the US edition's personal data would ship with it. The US edition handles a household that spans both countries: Canadian accounts like RRSPs show in C$ and count toward net worth in US dollars, Canadian bank exports import directly, and the what-if scenarios can model a cross-border move.
+From the same code, I also build **FinTracker Lite**, a Maple Leaf Edition for Canada. All personal data is kept separate from the code.
 
 <img src="images/fintracker-cross-border.png" alt="FinTracker Lite, the Canadian edition, with its maple-leaf cat mascot; below, a Canadian RRSP counted in US dollars in FinTracker (sample data)" width="760">
 

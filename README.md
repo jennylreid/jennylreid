@@ -40,7 +40,7 @@ At RingCentral, I built my first game, **Escape Room**: a point-and-click advent
 
 <img src="images/fintracker-spending.png" alt="FinTracker Spending: each budget line against its target, month so far (sample data)" width="49%"> <img src="images/fintracker-all-done.png" alt="FinTracker all caught up: the cat celebrates when nothing needs you (sample data)" width="49%">
 
-I also set up an OpenClaw agent named Finch, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I gave her a high-quality, interactive voice, so I can brainstorm with her hands-free in the car, and she takes notes and sends them to my Kanban board or to a PM of my choice. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
+I also set up an OpenClaw agent named Finch, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I gave her a premium, interactive voice, so I can brainstorm with her hands-free in the car, and she takes notes and sends them to my Kanban board or to a PM of my choice. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
 
 <img src="images/finch-discord.png" alt="Real Finch DMs in Discord: a Claude Chat note saved for my PMs, two ticket updates, a restart notice and a wait ping" width="680">
 
@@ -49,7 +49,7 @@ I also set up an OpenClaw agent named Finch, who is another member of my team. F
 
 <img src="images/cat-tiktok-road-signs.png" alt="Four frames from a Cat TikTok video: a cat driving a red convertible past a deer-crossing sign as a deer leaps across the road" width="680">
 
-**Agent dashboard.** With many AI agents working across several projects, the hard part is knowing who needs me. So I built a dashboard that turns my team into a small town: each project is a building, modeled on historic buildings from my hometown, and each agent is a worker I can see at their post. When one needs me, they raise a hand; urgent problems get a flare, work that's ready to test gets a plane, and the backlog waits as ships out at sea. I built my own two-way voice chat, so I can talk with any of them out loud. I also built a meeting room for video calls. It's early days, and I'm not sure it adds to my workflow, but it's fun to test the boundaries.
+**Agent dashboard.** With many AI agents working across several projects, the hard part is knowing who needs me. So I built a dashboard that turns my team into a small town: each project is a building, modeled on historic buildings from my hometown, and each agent is a worker I can see at their post. When one needs me, they raise a hand; urgent problems get a flare, work that's ready to test gets a plane, and the backlog waits as ships out at sea. I built my own two-way voice chat with free, built-in voices, so I can talk with any of them out loud. I also built a meeting room for video calls. It's early days, and I'm not sure it adds to my workflow, but it's fun to test the boundaries.
 
 <img src="images/agent-dashboard.png" alt="The agent dashboard: an island town where each building is a project, with workers, flares, planes on an airstrip, and a Capacity panel" width="760">
 

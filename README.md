@@ -28,7 +28,7 @@ My team's toolkit: Claude Code · Codex · OpenClaw · OpenAI · Runway · Disco
 
 ## Projects
 
-As part of RingCentral's AI experimentation program, we were each asked to build a game with AI. Mine was **Escape Room**, a point-and-click adventure inspired by my favorite PC game as a kid, King's Quest VI. I enjoyed it and worked nights and weekends to complete it. After 40 hours it was essentially a small but fully baked game. That's where I started developing my process, with Claude as PM and Codex as engineer. The game belongs to RingCentral, so I can't share it.
+As part of RingCentral's AI experimentation program, PMs were each asked to build a game with AI. Mine was **Escape Room**, a point-and-click adventure inspired by my favorite PC game as a kid, King's Quest VI. I enjoyed it and worked nights and weekends to complete it. After 40 hours it was essentially a small but fully baked game. That's where I started developing my process, with Claude as PM and Codex as engineer. The game belongs to RingCentral, so I can't share it.
 
 **FinTracker** was the first thing I built after leaving RingCentral, and it's my most finished product: a personal finance app tailored to my husband's and my needs, with transactions imported automatically, monthly bills against budget, net worth, runway and what-if scenarios. The code isn't public, so the screenshot uses sample data.
 

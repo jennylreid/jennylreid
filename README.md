@@ -14,7 +14,7 @@ I run my AI team the way I've always worked with engineering teams.
 
 Every team member understands their role and always assigns or passes work to the correct role.
 
-My team's toolkit: Claude Code · Codex · OpenClaw · OpenAI · GitHub · JavaScript · Python · Android
+My team's toolkit: Claude Code · Codex · OpenClaw · OpenAI · Runway · Discord · GitHub · JavaScript · Python · Android
 
 ## What I've learned
 
@@ -32,9 +32,26 @@ At RingCentral, I built my first game, **Escape Room**: a point-and-click advent
 
 **[Cat Coin Pusher](https://github.com/jennylreid/cat-coin-pusher)** is my current game, and a very different challenge. Escape Room delighted through its story, puzzles, cleverness and music. A coin pusher has to delight moment to moment, through how it looks, how smoothly it plays and how it pays off, and getting that right takes far longer. It's a long-term side project, and the repo shows my process at work: tickets, engineer reports, and test builds before each release.
 
-My other projects aren't public. I built a personal finance app tailored to my husband's and my needs, which I might adapt for public display at some point. I also set up an OpenClaw agent named Finch, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I can also voice chat with her to brainstorm in the car, and she takes notes and sends them to my Kanban board or to a PM of my choice. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
+<img src="images/cat-coin-pusher.png" alt="Cat Coin Pusher: a cat face above a board of paw-print coins, with cheese and shrimp prizes" width="260">
 
-**Agent dashboard.** With many AI agents working across several projects, the hard part is knowing who needs me. So I built a dashboard that turns my team into a small town: each project is a building, modeled on historic buildings from my hometown, and each agent is a worker I can see at their post. When one needs me, they raise a hand; urgent problems get a flare, work that's ready to test gets a plane, and the backlog waits as ships out at sea. I can talk with any of them by voice, and I'm experimenting with a meeting room for video calls.
+**FinTracker** was the first thing I built after leaving RingCentral, and it's my most finished product: a personal finance app tailored to my husband's and my needs, with transactions imported automatically, monthly bills against budget, net worth, runway and what-if scenarios. The code isn't public, so the screenshot uses sample data.
+
+<img src="images/fintracker.png" alt="FinTracker's Home screen with sample data: monthly bills against budget, net worth, runway and what-if scenarios" width="760">
+
+<img src="images/fintracker-spending.png" alt="FinTracker Spending: each budget line against its target, month so far (sample data)" width="49%"> <img src="images/fintracker-all-done.png" alt="FinTracker all caught up: the cat celebrates when nothing needs you (sample data)" width="49%">
+
+I also set up an OpenClaw agent named Finch, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I gave her a premium, interactive voice, so I can brainstorm with her hands-free in the car, and she takes notes and sends them to my Kanban board or to a PM of my choice. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
+
+<img src="images/finch-discord.png" alt="Real Finch DMs in Discord: a Claude Chat note saved for my PMs, two ticket updates, a restart notice and a wait ping" width="680">
+
+
+**Cat TikTok** is a series of short AI-made videos, like this one: a tuxedo cat on a country drive meets a deer-crossing sign, and then a deer.
+
+<img src="images/cat-tiktok-road-signs.png" alt="Four frames from a Cat TikTok video: a cat driving a red convertible past a deer-crossing sign as a deer leaps across the road" width="680">
+
+**Agent dashboard.** With many AI agents working across several projects, the hard part is knowing who needs me. So I built a dashboard that turns my team into a small town: each project is a building, modeled on historic buildings from my hometown, and each agent is a worker I can see at their post. When one needs me, they raise a hand; urgent problems get a flare, work that's ready to test gets a plane, and the backlog waits as ships out at sea. I built my own two-way voice chat with free, built-in voices, so I can talk with any of them out loud. I also built a meeting room for video calls. It's early days, and I'm not sure it adds to my workflow, but it's fun to test the boundaries.
+
+<img src="images/agent-dashboard.png" alt="The agent dashboard: an island town where each building is a project, with workers, flares, planes on an airstrip, and a Capacity panel" width="760">
 
 ## How I measure it
 
@@ -42,6 +59,8 @@ I track my AI team like any engineering team. In October 2026: 104 tickets done 
 
 - **Monthly project stats:** time, tickets, commits, cost and reply times per project, from the conversation logs, ticket boards and Git.
 - **Capacity page:** refreshed every morning with usage and spend across Claude, Codex, OpenAI and the other services. It flags anything likely to go unused, so I put work there first.
+
+<img src="images/capacity.png" alt="The Capacity view: usage, reset dates and likely-unused spend for each AI service" width="760">
 
 <img src="images/october-2026-hours.svg" alt="Hours by project in October 2026: my time and agent time for each of 8 projects" width="680">
 

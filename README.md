@@ -9,12 +9,12 @@ In summer 2026, I started experimenting with AI beyond localization: I built my 
 I run my AI team the way I've always worked with engineering teams.
 
 - **I'm the product owner.** I decide what we build, set priorities on a Kanban board, and test every change before it ships.
-- **Claude is the product manager.** I have four PMs: one per app and one for process. I tell a PM what I need, it writes the ticket and the prompt, and I review the prompt before it goes to an engineer.
+- **Claude is the product manager.** I have a PM per project, plus one for process. I tell a PM what I need, it writes the ticket and the prompt, and I review the prompt before it goes to an engineer.
 - **Codex is the engineer** (sometimes Claude, depending on the work). Every ticket gets its own conversation, named after the ticket.
 
 Every team member understands their role and always assigns or passes work to the correct role.
 
-My team's toolkit: Claude Code · Codex · OpenClaw · ElevenLabs · GitHub · JavaScript · Python · Android
+My team's toolkit: Claude Code · Codex · OpenClaw · OpenAI · GitHub · JavaScript · Python · Android
 
 ## What I've learned
 
@@ -36,6 +36,6 @@ My other projects aren't public. I built a personal finance app tailored to my h
 
 ## What's next
 
-Right now, I'm focused on building my own projects and going deep on AI. If you think my mix of skills (product management, localization and internationalization, and building with AI) could be useful to you, I'd be happy to talk.
+I'm looking for a full-time role. Lately I've been building my own projects and going deep on AI. If my mix of skills (product management, localization and internationalization, and building with AI) fits your team, I'd love to talk.
 
 📫 [LinkedIn](https://www.linkedin.com/in/jennyreid/)

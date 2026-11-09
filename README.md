@@ -2,7 +2,7 @@
 
 I'm a localization and internationalization SME who builds with AI. As a technical product manager, I've worked with engineering teams at BlackBerry, Guidewire and RingCentral. At RingCentral, I implemented AI-driven localization workflows that went live in January 2025 and cut per-word costs by 35%. We later brought it all in-house, replacing our TMS and our external AI localization vendor. In October 2025, I presented our approach at LocWorld in Monterey, California.
 
-In summer 2026, I started experimenting with AI beyond localization: I built my first game during RingCentral's AI experimentation program, and since being laid off, I've been building my own apps full time with a 100% AI team.
+In summer 2026, I started experimenting with AI beyond localization: I built my first game during RingCentral's AI experimentation program, and since leaving RingCentral, I've been building my own apps full time with a 100% AI team.
 
 ## How I work: an AI team run like an engineering team
 
@@ -34,7 +34,11 @@ At RingCentral, I built my first game, **Escape Room**: a point-and-click advent
 
 <img src="images/cat-coin-pusher.png" alt="Cat Coin Pusher: a cat face above a board of paw-print coins, with cheese and shrimp prizes" width="260">
 
-My other projects aren't public. I built a personal finance app tailored to my husband's and my needs, which I might adapt for public display at some point. I also set up an OpenClaw agent named Finch, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I can also voice chat with her to brainstorm in the car, and she takes notes and sends them to my Kanban board or to a PM of my choice. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
+**FinTracker** was the first thing I built after leaving RingCentral, and it's my most finished product: a personal finance app tailored to my husband's and my needs, with monthly bills against budget, net worth, runway and what-if scenarios. The code isn't public, so the screenshot uses sample data.
+
+<!-- FINTRACKER_IMAGE -->
+
+I also set up an OpenClaw agent named Finch, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I can also voice chat with her to brainstorm in the car, and she takes notes and sends them to my Kanban board or to a PM of my choice. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
 
 <img src="images/finch-discord.png" alt="Finch in Discord: a morning to-do note, a brief written up after a voice call, and a ticket-done message (sample messages)" width="680">
 

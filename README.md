@@ -36,6 +36,10 @@ As part of RingCentral's AI experimentation program, PMs were each asked to buil
 
 <img src="images/fintracker-spending.png" alt="FinTracker Spending: each budget line against its target, month so far (sample data)" width="49%"> <img src="images/fintracker-all-done.png" alt="FinTracker all caught up: the cat celebrates when nothing needs you (sample data)" width="49%">
 
+FinTracker is built for a household that spans the US and Canada. US and Canadian accounts roll up into one net worth, with each Canadian balance shown in C$ and in US dollars. RRSPs group with other pre-tax accounts, Canadian bank exports import directly, and the what-if scenarios can model a cross-border move. From the same code, I also build a separate Canadian edition with its own budget lines and sorting rules for Canadian merchants; the build stops if any of the US edition's personal data would ship with it.
+
+<img src="images/fintracker-cross-border.png" alt="FinTracker net worth across borders: US and Canadian accounts in one total, each CAD balance shown in C$ and US dollars (sample data)" width="760">
+
 **[Cat Coin Pusher](https://github.com/jennylreid/cat-coin-pusher)** is my current game, and a very different challenge. Escape Room delighted through its story, puzzles, cleverness and music. A coin pusher has to delight moment to moment, through how it looks, how smoothly it plays and how it pays off, and getting that right takes far longer. It's a long-term side project, and the repo shows my process at work: tickets, engineer reports, and test builds before each release.
 
 <img src="images/cat-coin-pusher.png" alt="Cat Coin Pusher: a cat face above a board of paw-print coins, with cheese and shrimp prizes" width="180">

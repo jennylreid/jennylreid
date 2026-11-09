@@ -70,6 +70,6 @@ I track my AI team like any engineering team. In October 2026: 104 tickets done 
 
 ## What's next
 
-I'm looking for a full-time role. In the meantime, I'm building my own projects and going deep on AI. If my mix of skills (product management, localization and internationalization, and building with AI) fits your team, I'd love to talk.
+I'm looking for a full-time role. In the meantime, I'm building my own projects and going deep on AI. If you think you could use my skill set (product management, localization and internationalization, and building with AI), please reach out.
 
 📫 [LinkedIn](https://www.linkedin.com/in/jennyreid/)

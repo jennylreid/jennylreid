@@ -34,7 +34,7 @@ At RingCentral, I built my first game, **Escape Room**: a point-and-click advent
 
 <img src="images/cat-coin-pusher.png" alt="Cat Coin Pusher: a cat face above a board of paw-print coins, with cheese and shrimp prizes" width="260">
 
-**FinTracker** was the first thing I built after leaving RingCentral, and it's my most finished product: a personal finance app tailored to my husband's and my needs, with monthly bills against budget, net worth, runway and what-if scenarios. The code isn't public, so the screenshot uses sample data.
+**FinTracker** was the first thing I built after leaving RingCentral, and it's my most finished product: a personal finance app tailored to my husband's and my needs, with transactions imported automatically, monthly bills against budget, net worth, runway and what-if scenarios. The code isn't public, so the screenshot uses sample data.
 
 <!-- FINTRACKER_IMAGE -->
 

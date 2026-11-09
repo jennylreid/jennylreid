@@ -32,8 +32,6 @@ As part of RingCentral's AI experimentation program, PMs were each asked to buil
 
 **FinTracker** was the first thing I built after leaving RingCentral, and it's my most finished product: a personal finance app for Windows and Android, tailored to my husband's and my needs, with transactions imported automatically, monthly bills against budget, net worth, runway and what-if scenarios. The code isn't public, so the screenshot uses sample data.
 
-<img src="images/fintracker.png" alt="FinTracker's Home screen with sample data: monthly bills against budget, net worth, runway and what-if scenarios" width="680">
-
 <img src="images/fintracker-spending-v4.gif" alt="FinTracker Spending screen (sample data): moving a grocery charge to Dining out updates both lines' totals live" width="680">
 
 <img src="images/fintracker-coins.gif" alt="FinTracker Home (sample data): finishing the last quest makes the cat happy, then clicking the coins starts a coin shower the cat sweeps up" width="680">

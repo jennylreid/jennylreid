@@ -36,7 +36,7 @@ As part of RingCentral's AI experimentation program, PMs were each asked to buil
 
 <img src="images/fintracker-spending.png" alt="FinTracker Spending: each budget line against its target, month so far (sample data)" width="49%"> <img src="images/fintracker-all-done.png" alt="FinTracker all caught up: the cat celebrates when nothing needs you (sample data)" width="49%">
 
-From the same code, I also build **FinTracker Lite**, a Maple Leaf Edition for my husband in Canada. All personal data is kept separate from the code. This is a Lite version I put together specifically for budgeting. If he likes it, I will add more features.
+From the same code, I also build **FinTracker Lite**, a Maple Leaf Edition for my husband in Canada. All personal data is kept separate from the code. It starts lean, with budgeting only, and I'll add features as he uses it.
 
 <img src="images/fintracker-cross-border.png" alt="FinTracker Lite, the Canadian edition, with its maple-leaf cat mascot; below, a Canadian RRSP counted in US dollars in FinTracker (sample data)" width="760">
 

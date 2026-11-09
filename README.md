@@ -34,6 +34,17 @@ At RingCentral, I built my first game, **Escape Room**: a point-and-click advent
 
 My other projects aren't public. I built a personal finance app tailored to my husband's and my needs, which I might adapt for public display at some point. I also set up an OpenClaw agent named Finch, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I can also voice chat with her to brainstorm in the car, and she takes notes and sends them to my Kanban board or to a PM of my choice. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
 
+**Agent dashboard.** With many AI agents working across several projects, the hard part is knowing who needs me. So I built a dashboard that turns my team into a small town: each project is a building, modeled on historic buildings from my hometown, and each agent is a worker I can see at their post. When one needs me, they raise a hand; urgent problems get a flare, and work that's ready to test gets a plane. I can talk with any of them by voice, and I'm experimenting with a meeting room for video calls.
+
+## How I measure it
+
+I track my AI team like any engineering team. In October 2026: 104 tickets done and 189 commits across 8 projects, about 2 hours of agent work for every hour of mine, for about $168 in AI tools.
+
+- **Monthly project stats:** time, tickets, commits, cost and reply times per project, from the conversation logs, ticket boards and Git.
+- **Capacity page:** refreshed every morning with usage and spend across Claude, Codex, OpenAI and the other services. It flags anything likely to go unused, so I put work there first.
+
+<img src="images/october-2026-hours.svg" alt="Hours by project in October 2026: my time and agent time for each of 8 projects" width="680">
+
 ## What's next
 
 I'm looking for a full-time role. Lately I've been building my own projects and going deep on AI. If my mix of skills (product management, localization and internationalization, and building with AI) fits your team, I'd love to talk.

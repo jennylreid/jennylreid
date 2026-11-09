@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="760" height="460" rx="10" fill="#FFFFFF" stroke="#D0D7DE"/>
+<text x="24" y="36" font-size="19" font-weight="600" fill="#1F2933">Hours by project, October 2026</text>
+<text x="24" y="60" font-size="13" fill="#5F6B76">80 h of my time, 162 h of agent time: about 2 agent hours for every hour of mine</text>
+<rect x="510" y="70" width="12" height="12" rx="2" fill="#E07A3F"/><text x="528" y="80" font-size="12" fill="#1F2933">My time</text>
+<rect x="600" y="70" width="12" height="12" rx="2" fill="#3A6EA5"/><text x="618" y="80" font-size="12" fill="#1F2933">Agent time</text>
+<line x1="150.0" y1="92" x2="150.0" y2="422" stroke="#E3E7EB"/>
+<text x="150.0" y="440" font-size="11" fill="#5F6B76" text-anchor="middle">0 h</text>
+<line x1="260.0" y1="92" x2="260.0" y2="422" stroke="#E3E7EB"/>
+<text x="260.0" y="440" font-size="11" fill="#5F6B76" text-anchor="middle">10 h</text>
+<line x1="370.0" y1="92" x2="370.0" y2="422" stroke="#E3E7EB"/>
+<text x="370.0" y="440" font-size="11" fill="#5F6B76" text-anchor="middle">20 h</text>
+<line x1="480.0" y1="92" x2="480.0" y2="422" stroke="#E3E7EB"/>
+<text x="480.0" y="440" font-size="11" fill="#5F6B76" text-anchor="middle">30 h</text>
+<line x1="590.0" y1="92" x2="590.0" y2="422" stroke="#E3E7EB"/>
+<text x="590.0" y="440" font-size="11" fill="#5F6B76" text-anchor="middle">40 h</text>
+<line x1="700.0" y1="92" x2="700.0" y2="422" stroke="#E3E7EB"/>
+<text x="700.0" y="440" font-size="11" fill="#5F6B76" text-anchor="middle">50 h</text>
+<text x="138" y="114" font-size="13" fill="#1F2933" text-anchor="end">FinTracker</text>
+<rect x="150" y="96" width="309.1" height="13" rx="2" fill="#E07A3F"/>
+<text x="465.1" y="107" font-size="11" fill="#5F6B76">28.1</text>
+<rect x="150" y="111" width="529.1" height="13" rx="2" fill="#3A6EA5"/>
+<text x="685.1" y="122" font-size="11" fill="#5F6B76">48.1</text>
+<text x="138" y="154" font-size="13" fill="#1F2933" text-anchor="end">CatCoin</text>
+<rect x="150" y="136" width="233.2" height="13" rx="2" fill="#E07A3F"/>
+<text x="389.2" y="147" font-size="11" fill="#5F6B76">21.2</text>
+<rect x="150" y="151" width="349.8" height="13" rx="2" fill="#3A6EA5"/>
+<text x="505.8" y="162" font-size="11" fill="#5F6B76">31.8</text>
+<text x="138" y="194" font-size="13" fill="#1F2933" text-anchor="end">Agent Dashboard</text>
+<rect x="150" y="176" width="129.8" height="13" rx="2" fill="#E07A3F"/>
+<text x="285.8" y="187" font-size="11" fill="#5F6B76">11.8</text>
+<rect x="150" y="191" width="356.4" height="13" rx="2" fill="#3A6EA5"/>
+<text x="512.4" y="202" font-size="11" fill="#5F6B76">32.4</text>
+<text x="138" y="234" font-size="13" fill="#1F2933" text-anchor="end">Cat TikTok</text>
+<rect x="150" y="216" width="57.2" height="13" rx="2" fill="#E07A3F"/>
+<text x="213.2" y="227" font-size="11" fill="#5F6B76">5.2</text>
+<rect x="150" y="231" width="147.4" height="13" rx="2" fill="#3A6EA5"/>
+<text x="303.4" y="242" font-size="11" fill="#5F6B76">13.4</text>
+<text x="138" y="274" font-size="13" fill="#1F2933" text-anchor="end">Home Tech</text>
+<rect x="150" y="256" width="63.8" height="13" rx="2" fill="#E07A3F"/>
+<text x="219.8" y="267" font-size="11" fill="#5F6B76">5.8</text>
+<rect x="150" y="271" width="118.8" height="13" rx="2" fill="#3A6EA5"/>
+<text x="274.8" y="282" font-size="11" fill="#5F6B76">10.8</text>
+<text x="138" y="314" font-size="13" fill="#1F2933" text-anchor="end">Process</text>
+<rect x="150" y="296" width="44.0" height="13" rx="2" fill="#E07A3F"/>
+<text x="200.0" y="307" font-size="11" fill="#5F6B76">4</text>
+<rect x="150" y="311" width="136.4" height="13" rx="2" fill="#3A6EA5"/>
+<text x="292.4" y="322" font-size="11" fill="#5F6B76">12.4</text>
+<text x="138" y="354" font-size="13" fill="#1F2933" text-anchor="end">Finch</text>
+<rect x="150" y="336" width="44.0" height="13" rx="2" fill="#E07A3F"/>
+<text x="200.0" y="347" font-size="11" fill="#5F6B76">4</text>
+<rect x="150" y="351" width="132.0" height="13" rx="2" fill="#3A6EA5"/>
+<text x="288.0" y="362" font-size="11" fill="#5F6B76">12</text>
+<text x="138" y="394" font-size="13" fill="#1F2933" text-anchor="end">House remodel</text>
+<rect x="150" y="376" width="4.4" height="13" rx="2" fill="#E07A3F"/>
+<text x="160.4" y="387" font-size="11" fill="#5F6B76">0.4</text>
+<rect x="150" y="391" width="8.8" height="13" rx="2" fill="#3A6EA5"/>
+<text x="164.8" y="402" font-size="11" fill="#5F6B76">0.8</text>
+</svg>

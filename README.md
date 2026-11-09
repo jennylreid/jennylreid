@@ -30,15 +30,21 @@ My team's toolkit: Claude Code · Codex · OpenClaw · OpenAI · Runway · Disco
 
 As part of RingCentral's AI experimentation program, PMs were each asked to build a game with AI. Mine was **Escape Room**, a point-and-click adventure inspired by my favorite PC game as a kid, King's Quest VI. I enjoyed it and worked nights and weekends to complete it. After 40 hours it was essentially a small but fully baked game. That's where I started developing my process, with Claude as PM and Codex as engineer. The game belongs to RingCentral, so I can't share it.
 
-**FinTracker** was the first thing I built after leaving RingCentral, and it's my most finished product: a personal finance app tailored to my husband's and my needs, with transactions imported automatically, monthly bills against budget, net worth, runway and what-if scenarios. The code isn't public, so the screenshot uses sample data.
+**FinTracker** was the first thing I built after leaving RingCentral, and it's my most finished product: a personal finance app for Windows and Android, tailored to my husband's and my needs, with transactions imported automatically, monthly bills against budget, net worth, runway and what-if scenarios. The code isn't public, so the screenshot uses sample data.
 
 <img src="images/fintracker.png" alt="FinTracker's Home screen with sample data: monthly bills against budget, net worth, runway and what-if scenarios" width="760">
 
 <img src="images/fintracker-spending.png" alt="FinTracker Spending: each budget line against its target, month so far (sample data)" width="49%"> <img src="images/fintracker-all-done.png" alt="FinTracker all caught up: the cat celebrates when nothing needs you (sample data)" width="49%">
 
+From the same code, I also build **FinTracker Lite**, a Maple Leaf Edition for my husband in Canada. All personal data is kept separate from the code. It starts lean, with budgeting only, and I'll add features as he uses it.
+
+<img src="images/fintracker-lite.png" alt="FinTracker Lite, Maple Leaf Edition: the cat mascot in a maple-leaf tie, all caught up (sample data)" width="760">
+
+<img align="left" src="images/cat-coin-pusher.png" alt="Cat Coin Pusher: a cat face above a board of paw-print coins, with cheese and shrimp prizes" width="180">
+
 **[Cat Coin Pusher](https://github.com/jennylreid/cat-coin-pusher)** is my current game, and a very different challenge. Escape Room delighted through its story, puzzles, cleverness and music. A coin pusher has to delight moment to moment, through how it looks, how smoothly it plays and how it pays off, and getting that right takes far longer. It's a long-term side project, and the repo shows my process at work: tickets, engineer reports, and test builds before each release.
 
-<img src="images/cat-coin-pusher.png" alt="Cat Coin Pusher: a cat face above a board of paw-print coins, with cheese and shrimp prizes" width="180">
+<br clear="left">
 
 I also set up an OpenClaw agent named Finch, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I gave her a premium, interactive voice, so I can brainstorm with her hands-free in the car (she even hangs up when I ask), and she takes notes and sends them to my PMs for processing. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
 
@@ -46,7 +52,7 @@ I also set up an OpenClaw agent named Finch, who is another member of my team. F
 
 <img src="images/cat-tiktok-road-signs.png" alt="Four frames from a Cat TikTok video: a cat driving a red convertible past a deer-crossing sign as a deer leaps across the road" width="680">
 
-**Agent dashboard.** With many AI agents working across several projects, the hard part is knowing who needs me. So I built a dashboard that turns my team into a small town: each project is a building, modeled on historic buildings from my hometown, and each agent is a worker I can see at their post. When one needs me, they raise a hand; urgent problems get a flare, work that's ready to test gets a plane, and the backlog waits as ships out at sea. I built my own two-way voice chat with free, built-in voices, so I can talk with any of them out loud. I also built a meeting room for video calls. It's early days, and I'm not sure it adds to my workflow, but it's fun to test the boundaries.
+**Agent dashboard.** With many AI agents working across several projects, the hard part is knowing status for each text-based conversation/chat. So I built a dashboard that gives me complete status at a glance: each project is a building, and each agent is a worker I can see at their post. When one needs me, they raise a hand; for urgent problems they send up a flare, work that's ready to test is signaled by a plane flying a banner, and the backlog waits as ships out at sea. Since Claude Code doesn't offer interactive voice, I've added my own to the agent dashboard. It's free and runs locally: my Chrome browser's speech recognition listens, and Windows' built-in voices answer. The quality isn't as good as Finch's premium voice, but it's free, and I can upgrade later if it proves worth it. It's in early testing stages now, along with a meeting room for video calls.
 
 <img src="images/agent-dashboard.png" alt="The agent dashboard: an island town where each building is a project, with workers, flares, planes on an airstrip, and a Capacity panel" width="760">
 

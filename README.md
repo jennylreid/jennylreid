@@ -45,8 +45,9 @@ From the same code, I also build **FinTracker Lite**, a Maple Leaf Edition for m
 **[Cat Coin Pusher](https://github.com/jennylreid/cat-coin-pusher)** is my current game, and a very different challenge. Escape Room delighted through its story, puzzles, cleverness and music. A coin pusher has to delight moment to moment, through how it looks, how smoothly it plays and how it pays off, and getting that right takes far longer. It's a long-term side project, and the repo shows my process at work: tickets, engineer reports, and test builds before each release.
 
 <br clear="left">
+<br>
 
-I also set up an OpenClaw agent named Finch, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I gave her a premium, interactive voice, so I can brainstorm with her hands-free in the car (she even hangs up when I ask), and she takes notes and sends them to my PMs for processing. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
+I also set up an OpenClaw agent named **Finch**, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I gave her a premium, interactive voice, so I can brainstorm with her hands-free in the car (she even hangs up when I ask), and she takes notes and sends them to my PMs for processing. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
 
 **Cat TikTok** is a series of short AI-made videos, like this one: a tuxedo cat on a country drive meets a deer-crossing sign, and then a deer.
 

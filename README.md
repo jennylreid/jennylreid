@@ -55,7 +55,7 @@ I also set up an OpenClaw agent named **Finch**, who is another member of my tea
 
 **Agent dashboard.** With many AI agents working across several projects, it was getting tricky to track status for each text-based conversation/chat. So I built a dashboard that gives me complete status at a glance: each project is a building, and each agent is a worker I can see at their post. When one needs me, they raise a hand; for urgent problems they send up a flare, work that's ready to test is signaled by a plane flying a banner, and the backlog waits as ships out at sea. Since Claude Code doesn't offer interactive voice, I've added my own to the agent dashboard. It's free and runs locally: my Chrome browser's speech recognition listens, and Windows' built-in voices answer. The quality isn't as good as Finch's premium voice, but it's free, and I can upgrade later if it proves worth it. It's in early testing stages now, along with a meeting room for video calls.
 
-<img src="images/agent-dashboard.png" alt="The agent dashboard: an island town where each building is a project, with workers, flares, planes on an airstrip, and a Capacity panel" width="760">
+<img src="images/agent-dashboard-2026-11-03.png" alt="The agent dashboard: an island town where each building is a project, with workers, flares, planes on an airstrip, and a Capacity panel" width="760">
 
 ## How I measure it
 
@@ -64,7 +64,7 @@ I track my AI team like any engineering team. In October 2026: 104 tickets done 
 - **Monthly project stats:** time, tickets, commits, cost and reply times per project, from the conversation logs, ticket boards and Git.
 - **Capacity page:** refreshed every morning with usage and spend across Claude, Codex, OpenAI and the other services. It flags anything likely to go unused, so I put work there first.
 
-<img src="images/capacity.png" alt="The Capacity view: usage, reset dates and likely-unused spend for each AI service" width="760">
+<img src="images/capacity-2026-11-03.png" alt="The Capacity view: usage, reset dates and likely-unused spend for each AI service" width="760">
 
 <img src="images/october-2026-hours.svg" alt="Hours by project in October 2026: my time and agent time for each of 8 projects" width="680">
 

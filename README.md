@@ -30,7 +30,7 @@ My team's toolkit: Claude Code · Codex · OpenClaw · OpenAI · Runway · Disco
 
 As part of RingCentral's AI experimentation program, PMs were each asked to build a game with AI. Mine was **Escape Room**, a point-and-click adventure inspired by my favorite PC game as a kid, King's Quest VI. I enjoyed it and worked nights and weekends to complete it. After 40 hours it was essentially a small but fully baked game. That's where I started developing my process, with Claude as PM and Codex as engineer. The game belongs to RingCentral, so I can't share it.
 
-**FinTracker** was the first thing I built after leaving RingCentral, and it's my most finished product: a personal finance app tailored to my husband's and my needs, with transactions imported automatically, monthly bills against budget, net worth, runway and what-if scenarios. The code isn't public, so the screenshot uses sample data.
+**FinTracker** was the first thing I built after leaving RingCentral, and it's my most finished product: a personal finance app for Windows and Android, tailored to my husband's and my needs, with transactions imported automatically, monthly bills against budget, net worth, runway and what-if scenarios. The code isn't public, so the screenshot uses sample data.
 
 <img src="images/fintracker.png" alt="FinTracker's Home screen with sample data: monthly bills against budget, net worth, runway and what-if scenarios" width="760">
 
@@ -50,7 +50,7 @@ I also set up an OpenClaw agent named Finch, who is another member of my team. F
 
 <img src="images/cat-tiktok-road-signs.png" alt="Four frames from a Cat TikTok video: a cat driving a red convertible past a deer-crossing sign as a deer leaps across the road" width="680">
 
-**Agent dashboard.** With many AI agents working across several projects, the hard part is knowing who needs me. So I built a dashboard that turns my team into a small town: each project is a building, modeled on historic buildings from my hometown, and each agent is a worker I can see at their post. When one needs me, they raise a hand; urgent problems get a flare, work that's ready to test gets a plane, and the backlog waits as ships out at sea. I built my own two-way voice chat with free, built-in voices, so I can talk with any of them out loud. I also built a meeting room for video calls. It's early days, and I'm not sure it adds to my workflow, but it's fun to test the boundaries.
+**Agent dashboard.** With many AI agents working across several projects, the hard part is knowing who needs me. So I built a dashboard that turns my team into a small town: each project is a building, modeled on historic buildings from my hometown, and each agent is a worker I can see at their post. When one needs me, they raise a hand; urgent problems get a flare, work that's ready to test gets a plane, and the backlog waits as ships out at sea. Claude Code doesn't have built-in two-way voice, so I'm adding my own. It's free and runs locally: Chrome's on-device speech recognition listens, and Windows' built-in voices answer. I can switch to premium voices later if it proves worth it. It's in testing now, along with a meeting room for video calls. It's early days, and I'm not sure video adds to my workflow, but it's fun to test the boundaries.
 
 <img src="images/agent-dashboard.png" alt="The agent dashboard: an island town where each building is a project, with workers, flares, planes on an airstrip, and a Capacity panel" width="760">
 

@@ -34,7 +34,7 @@ As part of RingCentral's AI experimentation program, PMs were each asked to buil
 
 <img src="images/fintracker.png" alt="FinTracker's Home screen with sample data: monthly bills against budget, net worth, runway and what-if scenarios" width="760">
 
-<img src="images/fintracker-spending.png" alt="FinTracker Spending: each budget line against its target, month so far (sample data)" width="49%"> <img src="images/fintracker-all-done.png" alt="FinTracker all caught up: the cat celebrates when nothing needs you (sample data)" width="49%">
+<img src="images/fintracker-spending.gif" alt="FinTracker Spending screen (sample data): clicking a budget line opens its charges" width="49%"> <img src="images/fintracker-all-done.png" alt="FinTracker all caught up: the cat celebrates when nothing needs you (sample data)" width="49%">
 
 From the same code, I also build **FinTracker Lite**, a Maple Leaf Edition for my husband in Canada. All personal data is kept separate from the code. It starts lean, with budgeting only, and I'll add features as he uses it.
 

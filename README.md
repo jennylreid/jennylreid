@@ -36,11 +36,11 @@ As part of RingCentral's AI experimentation program, PMs were each asked to buil
 
 <img src="images/fintracker-spending-v4.gif" alt="FinTracker Spending screen (sample data): moving a grocery charge to Dining out updates both lines' totals live" width="680">
 
-<img src="images/fintracker-all-done.png" alt="FinTracker all caught up: the cat celebrates when nothing needs you (sample data)" width="680">
+<img src="images/fintracker-coins.gif" alt="FinTracker Home (sample data): finishing the last quest makes the cat happy, then clicking the coins starts a coin shower the cat sweeps up" width="680">
 
 From the same code, I also build **FinTracker Lite**, a Maple Leaf Edition for my husband in Canada. All personal data is kept separate from the code. It starts lean, with budgeting only, and I'll add features as he uses it.
 
-<img src="images/fintracker-lite.png" alt="FinTracker Lite, Maple Leaf Edition: the cat mascot in a maple-leaf tie, all caught up (sample data)" width="680">
+<img src="images/fintracker-lite.gif" alt="FinTracker Lite, Maple Leaf Edition (sample data): finishing the last quest turns the maple-leaf cat happy" width="680">
 
 <img align="left" src="images/cat-coin-pusher.png" alt="Cat Coin Pusher: a cat face above a board of paw-print coins, with cheese and shrimp prizes" width="180">
 

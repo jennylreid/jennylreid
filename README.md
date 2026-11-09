@@ -44,12 +44,16 @@ My other projects aren't public. I built a personal finance app tailored to my h
 
 **Agent dashboard.** With many AI agents working across several projects, the hard part is knowing who needs me. So I built a dashboard that turns my team into a small town: each project is a building, modeled on historic buildings from my hometown, and each agent is a worker I can see at their post. When one needs me, they raise a hand; urgent problems get a flare, work that's ready to test gets a plane, and the backlog waits as ships out at sea. I can talk with any of them by voice, and I'm experimenting with a meeting room for video calls.
 
+<img src="images/agent-dashboard.png" alt="The agent dashboard: an island town where each building is a project, with workers, flares, planes on an airstrip, and a Capacity panel" width="760">
+
 ## How I measure it
 
 I track my AI team like any engineering team. In October 2026: 104 tickets done and 189 commits across 8 projects, about 2 hours of agent work for every hour of mine, for about $168 in AI tools.
 
 - **Monthly project stats:** time, tickets, commits, cost and reply times per project, from the conversation logs, ticket boards and Git.
 - **Capacity page:** refreshed every morning with usage and spend across Claude, Codex, OpenAI and the other services. It flags anything likely to go unused, so I put work there first.
+
+<img src="images/capacity.png" alt="The Capacity view: usage, reset dates and likely-unused spend for each AI service" width="760">
 
 <img src="images/october-2026-hours.svg" alt="Hours by project in October 2026: my time and agent time for each of 8 projects" width="680">
 

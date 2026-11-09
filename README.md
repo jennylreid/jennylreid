@@ -32,7 +32,15 @@ At RingCentral, I built my first game, **Escape Room**: a point-and-click advent
 
 **[Cat Coin Pusher](https://github.com/jennylreid/cat-coin-pusher)** is my current game, and a very different challenge. Escape Room delighted through its story, puzzles, cleverness and music. A coin pusher has to delight moment to moment, through how it looks, how smoothly it plays and how it pays off, and getting that right takes far longer. It's a long-term side project, and the repo shows my process at work: tickets, engineer reports, and test builds before each release.
 
+<img src="images/cat-coin-pusher.png" alt="Cat Coin Pusher: a cat face above a board of paw-print coins, with cheese and shrimp prizes" width="260">
+
 My other projects aren't public. I built a personal finance app tailored to my husband's and my needs, which I might adapt for public display at some point. I also set up an OpenClaw agent named Finch, who is another member of my team. Finch can ping me on Discord when an engineer is waiting for approval or a task is done. I can also voice chat with her to brainstorm in the car, and she takes notes and sends them to my Kanban board or to a PM of my choice. She could do a lot more, but API costs add up, so I keep her role small for now and ready to grow as new uses come along. It's early days, and things are moving quickly.
+
+<img src="images/finch-discord.png" alt="Finch in Discord: a morning to-do note, a brief written up after a voice call, and a ticket-done message (sample messages)" width="680">
+
+**Cat TikTok** is a series of short AI-made videos, like this one: a tuxedo cat on a country drive meets a deer-crossing sign, and then a deer.
+
+<img src="images/cat-tiktok-road-signs.png" alt="Four frames from a Cat TikTok video: a cat driving a red convertible past a deer-crossing sign as a deer leaps across the road" width="680">
 
 **Agent dashboard.** With many AI agents working across several projects, the hard part is knowing who needs me. So I built a dashboard that turns my team into a small town: each project is a building, modeled on historic buildings from my hometown, and each agent is a worker I can see at their post. When one needs me, they raise a hand; urgent problems get a flare, work that's ready to test gets a plane, and the backlog waits as ships out at sea. I can talk with any of them by voice, and I'm experimenting with a meeting room for video calls.
 

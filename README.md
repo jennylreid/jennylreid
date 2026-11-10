@@ -20,7 +20,7 @@ Previously at BlackBerry, Guidewire and RingCentral.
 
 ## Projects
 
-**FinTracker**: a personal finance app for Windows and Android, and my most finished product. It imports transactions automatically and tracks bills against budget, net worth, runway and what-if scenarios. The code is private, so screenshots use sample data.
+**FinTracker**: a personal finance app for Windows and Android, and my most finished product. It imports transactions automatically and tracks bills against budget, net worth, runway and what-if scenarios. The code is private, and screenshots use sample data.
 
 <img src="images/fintracker-spending-v4.gif" alt="FinTracker Spending screen (sample data): moving a grocery charge to Dining out updates both lines' totals live" width="680">
 

@@ -47,7 +47,7 @@ Previously at BlackBerry, Guidewire and RingCentral.
 
 <img src="images/cat-tiktok-road-signs.png" alt="Four frames from a Cat TikTok video: a cat driving a red convertible past a deer-crossing sign as a deer leaps across the road" width="680">
 
-**Escape Room**: my entry for an AI game challenge RingCentral's executive team set for its PMs. A point-and-click adventure, localized into Chinese for my teammates, and where my AI product team first took shape. RingCentral owns it, so it isn't shared.
+**Escape Room**: my contribution to an AI game challenge RingCentral's executive team set for its PMs. A point-and-click adventure, localized into Chinese for my teammates, and where my AI product team first took shape. RingCentral owns it, so it isn't shared.
 
 ## How I measure it
 

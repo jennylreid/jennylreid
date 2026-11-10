@@ -57,6 +57,8 @@ I also set up an OpenClaw agent named **Finch**, who is another member of my tea
 
 <img src="images/agent-dashboard-2026-11-03.png" alt="The agent dashboard: an island town where each building is a project, with workers, flares, planes on an airstrip, and a Capacity panel" width="680">
 
+<img src="images/agent-dashboard-closeup-2026-11-09.png" alt="Close-up of the agent dashboard at night: Finch the goldfinch on the Post Office roof, workers with status bubbles, and a plane flying a banner for a ticket ready to test" width="680">
+
 ## How I measure it
 
 I track my AI team like any engineering team. In October 2026: 104 tickets done and 189 commits across 8 projects, about 2 hours of agent work for every hour of mine, for about $168 in AI tools.

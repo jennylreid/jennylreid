@@ -9,7 +9,7 @@ Previously at BlackBerry, Guidewire and RingCentral.
 
 ## How I work
 
-- **I'm the product owner.** I set priorities on a Kanban board and test every change before it ships.
+- **I'm the product owner.** I track tickets on a Kanban board, prioritize the work, and test every change before it ships.
 - **Claude is the product manager.** One PM per project, plus one for process. It writes the tickets and prompts, and I review them.
 - **Codex is the engineer** (sometimes Claude). One conversation per ticket.
 - **Rules stay lean.** A wrong-window request gets redirected, not discussed. I prune the shared rules so they don't bloat the context.

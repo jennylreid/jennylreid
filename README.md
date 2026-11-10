@@ -10,7 +10,7 @@ Previously at BlackBerry, Guidewire and RingCentral.
 ## How I work
 
 - **I'm the product owner.** I automate with deliberate checkpoints built in: I decide what we build, track tickets on a Kanban board, prioritize the work, and test every change before it ships.
-- **Finch is my assistant.** An OpenClaw agent I talk to by voice, often while driving. She turns our brainstorms into briefs for the PMs and pings me on Discord when work needs me. She's the part of the team I'm most excited to grow.
+- **Finch is my assistant.** An OpenClaw agent I talk to by voice, often while driving. She turns our brainstorms into briefs for the PMs and pings me on Discord when work needs me. She's both a team member and a project, with exciting growth potential.
 - **Claude is the product manager.** One PM per project. PMs are personas that persist: when a PM's conversation fills up, it writes a handoff, starts its successor and archives itself. PMs brainstorm with me, then write the tickets and prompts. Once I've reviewed a prompt, the PM can kick off the ticket with an engineer.
 - **Codex is the engineer** (sometimes Claude). One conversation per ticket keeps the context focused. Unlike the PMs, engineers don't need to persist: the ticket and the engineer's report (tickets/ID.md) capture the takeaways, so each conversation is archived when its ticket is done. I've seen no drawbacks to this setup, but I'd be curious how others handle it.
 - **Rules stay lean.** The process lives in two files: TEAM_PROCESS.md (how we work: roles, tickets, testing, sign-off) and CLAUDE.md (standing instructions every conversation reads at the start). I keep both short, since too many rules bloat the context and make the team rigid.

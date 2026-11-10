@@ -1,6 +1,8 @@
-# Hi, I'm Jenny Reid
+# Jenny Reid
 
-Technical product manager and localization/internationalization SME (BlackBerry, Guidewire, RingCentral).
+**Technical product manager · Localization & internationalization SME**
+
+Previously at BlackBerry, Guidewire and RingCentral.
 
 - At RingCentral, I launched AI-driven localization workflows in January 2025 that cut per-word costs by 35%, then brought it all in-house. I presented the approach at LocWorld, Monterey, in October 2025.
 - Since summer 2026, I've been building my own apps full time with a 100% AI team.

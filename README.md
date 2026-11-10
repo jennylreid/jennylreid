@@ -12,7 +12,7 @@ Previously at BlackBerry, Guidewire and RingCentral.
 - **I'm the product owner.** I track tickets on a Kanban board, prioritize the work, and test every change before it ships.
 - **Claude is the product manager.** One PM per project. PMs are personas that persist: when a PM's conversation fills up, it writes a handoff, starts its successor and archives itself. PMs write the tickets and prompts, and I review them.
 - **Codex is the engineer** (sometimes Claude). One conversation per ticket keeps the context focused. Unlike the PMs, engineers don't need to persist: the ticket and the engineer's report hold what matters, so each conversation is archived when its ticket is done, and so far I haven't discovered any problems with this.
-- **Rules stay lean.** If I bring something to the wrong PM, it points me to the right one instead of going off on a tangent. Too many rules bloat the context and make the team rigid, so I keep the shared rules short.
+- **Rules stay lean.** The process lives in two files: TEAM_PROCESS.md (how we work: roles, tickets, testing, sign-off) and CLAUDE.md (standing instructions every conversation reads at the start). Both are version-controlled in Git. If I bring something to the wrong PM, it points me to the right one instead of going off on a tangent. Too many rules bloat the context and make the team rigid, so I keep them short.
 - **Each tool does what it's best at.** The PM says what's needed, and the engineer decides how.
 
 **Toolkit:** Claude Code · Codex · OpenClaw · OpenAI · Runway · Discord · GitHub · JavaScript · Python · Android

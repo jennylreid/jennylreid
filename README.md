@@ -5,11 +5,9 @@
 Previously at BlackBerry, Guidewire and RingCentral.
 
 - At RingCentral, I launched AI-driven localization workflows in January 2025 that cut per-word costs by 35%, then brought it all in-house. I presented the approach at LocWorld, Monterey, in October 2025.
-- Since summer 2026, I've been building my own apps, mostly to go deeper on the technical side. Here's what I've made and how I work.
+- Since summer 2026, I've been building my own apps with AI, working with it the way I've worked with engineering teams: each agent has a role, and work moves through tickets, testing and sign-off. I'm learning a lot, and I'm interested to compare notes with others experimenting in their own ways.
 
 ## How I work
-
-I run my AI team like an engineering team:
 
 - **I'm the product owner.** I set priorities on a Kanban board and test every change before it ships.
 - **Claude is the product manager.** One PM per project, plus one for process. It writes the tickets and prompts, and I review them.

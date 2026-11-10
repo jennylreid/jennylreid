@@ -10,9 +10,9 @@ Previously at BlackBerry, Guidewire and RingCentral.
 ## How I work
 
 - **I'm the product owner.** I track tickets on a Kanban board, prioritize the work, and test every change before it ships.
-- **Claude is the product manager.** One PM per project, plus one for process. It writes the tickets and prompts, and I review them.
-- **Codex is the engineer** (sometimes Claude). One conversation per ticket.
-- **Rules stay lean.** A wrong-window request gets redirected, not discussed. I prune the shared rules so they don't bloat the context.
+- **Claude is the product manager.** One PM persona per project, plus one for process. When a PM's conversation fills up, it writes a handoff, starts its successor and archives itself, so the persona stays steady. PMs write the tickets and prompts, and I review them.
+- **Codex is the engineer** (sometimes Claude). One conversation per ticket keeps the context focused. Unlike the PMs, engineers don't need to persist: the ticket and the engineer's report hold what matters, so each conversation is archived when its ticket is done, and so far I haven't missed anything.
+- **Rules stay lean.** If I bring something to the wrong PM, it points me to the right one instead of going off on a tangent. Too many rules bloat the context and make the team rigid, so I keep the shared rules short.
 - **Each tool does what it's best at.** The PM says what's needed, and the engineer decides how.
 
 **Toolkit:** Claude Code · Codex · OpenClaw · OpenAI · Runway · Discord · GitHub · JavaScript · Python · Android

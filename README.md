@@ -5,9 +5,7 @@
 Previously at BlackBerry, Guidewire and RingCentral.
 
 - At RingCentral, I launched AI-driven localization workflows in January 2025 that cut per-word costs by 35%, then brought it all in-house. I presented the approach at LocWorld, Monterey, in October 2025.
-- Since summer 2026, I've been building my own apps full time with a 100% AI team.
-
-📫 [LinkedIn](https://www.linkedin.com/in/jennyreid/), open to full-time roles in product management, localization and AI.
+- Since summer 2026, I've been building my own apps, mostly to go deeper on the technical side. Here's what I've made and how I work.
 
 ## How I work
 
@@ -64,3 +62,5 @@ I run my AI team like an engineering team:
 <img src="images/capacity-2026-11-03.png" alt="The Capacity view: usage, reset dates and likely-unused spend for each AI service" width="680">
 
 <img src="images/october-2026-hours.svg" alt="Hours by project in October 2026: my time and agent time for each of 8 projects" width="680">
+
+📫 [LinkedIn](https://www.linkedin.com/in/jennyreid/), open to full-time roles in product management, localization and AI.

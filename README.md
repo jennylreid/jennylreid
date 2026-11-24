@@ -32,7 +32,7 @@ Previously at BlackBerry, Guidewire and RingCentral.
 
 <img align="left" src="images/cat-coin-pusher.png" alt="Cat Coin Pusher: a cat face above a board of paw-print coins, with cheese and shrimp prizes" width="180">
 
-**[Cat Coin Pusher](https://github.com/jennylreid/cat-coin-pusher)**: a long-term game project. The repo shows the process at work: tickets, engineer reports and test builds before each release.
+**Cat Coin Pusher**: a long-term game project, built by an AI team I direct: tickets, engineer reports and test builds before each release. The code is private; a public look at the process is coming soon.
 
 <br clear="left">
 <br>
